@@ -1,0 +1,16 @@
+SMAP
+AgregarVenta_jsp.java
+JSP
+*S JSP
+*F
++ 0 AgregarVenta.jsp
+paginas/AgregarVenta.jsp
+*L
+5,9:47
+14,3:56,3
+17,35:65
+52:100,3
+53,3:103
+56:106,3
+57,11:109
+*E

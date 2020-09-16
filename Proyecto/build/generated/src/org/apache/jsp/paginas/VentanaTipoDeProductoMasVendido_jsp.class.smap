@@ -1,0 +1,20 @@
+SMAP
+VentanaTipoDeProductoMasVendido_jsp.java
+JSP
+*S JSP
+*F
++ 0 VentanaTipoDeProductoMasVendido.jsp
+paginas/VentanaTipoDeProductoMasVendido.jsp
+*L
+5,15:47
+19,5:62
+23,13:67
+36:80,3
+37:83
+38,4:84,3
+42,2:96
+44:98,3
+45,7:101
+52,2:108,3
+54,6:114
+*E
